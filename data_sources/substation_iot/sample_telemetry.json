@@ -1,0 +1,21 @@
+{
+  "telemetry_id": "ba55e14c-e3aa-4638-aeca-8d8f5a9c3e62",
+  "substation_id": "SUB-C-044",
+  "transformer_id": "TRF-C-0042",
+  "timestamp": "2025-06-15T05:05:46.000Z",
+  "load_mw": 79.89,
+  "capacity_mw": 100,
+  "load_percentage": 81.7,
+  "voltage_kv": 18.81,
+  "oil_temperature_c": 62.3,
+  "ambient_temperature_c": 39.3,
+  "dissolved_gas_ppm": 58.0,
+  "humidity_percent": 72.7,
+  "breaker_status": "OPEN",
+  "alarm_code": null,
+  "region": "CENTRAL",
+  "state": "MP",
+  "iot_device_id": "IOT-SUB-C-044-1",
+  "iot_hub_enqueued_time": "2025-06-15T05:05:46.970Z",
+  "sequence_number": 500000
+}

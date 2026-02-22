@@ -1,0 +1,19 @@
+{
+  "event_id": "4284de54-a24f-42c8-81fe-28eb4a376ba5",
+  "meter_id": "SM-N-00007",
+  "customer_id": "CUST-000759",
+  "timestamp": "2025-06-15T10:00:48.000Z",
+  "reading_kwh": 4.051,
+  "voltage_v": 245.7,
+  "current_a": 3.06,
+  "power_factor": 0.855,
+  "frequency_hz": 49.53,
+  "meter_status": "ACTIVE",
+  "region": "NORTH",
+  "state": "Haryana",
+  "grid_zone": "ZONE-9",
+  "is_anomaly_flag": false,
+  "kafka_partition": 0,
+  "kafka_offset": 1000000,
+  "kafka_timestamp": "2025-06-15T10:00:48.337Z"
+}
